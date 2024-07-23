@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "03.06.1899"; // Дата рождения
+var birthdate = "15.12.2005"; // Дата рождения
 var fullname = "Азізов Деніел Рустамович" // ФИО
 var name = "Деніеле" // Имя
 
